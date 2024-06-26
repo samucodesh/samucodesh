@@ -4,15 +4,15 @@ A Freelance Software Developer from Colombia 🇨🇴 passionate about building 
 
 ## 🚀 My Expertise
 
-- **Go (Golang):**  My go-to language for building scalable and efficient back-end systems.
+- **Go (Golang):** My go-to language for building scalable and efficient back-end systems.
 - **Python:** Comfortable with scripting and automation.
-- **Web Performance Optimization:**  I strive to deliver blazing-fast user experiences. 
-- **Trunk Based Development:**  A strong advocate for streamlined development workflows.
+- **Web Performance Optimization:** I strive to deliver blazing-fast user experiences. 
+- **Trunk Based Development:** I believe in streamlined workflows that foster collaboration and rapid delivery. Trunk-based development helps achieve this by reducing merge conflicts, speeding up integration, and enabling continuous feedback.
 
 ## 💻  Featured Projects
 
 - **[My Website](https://samucodesh.github.io/)**:  My personal website.
-- **[intro](https://samucodesh.github.io/intro/#/):**  Provided Spanish (es) translations for [Open Sauced's Intro](https://github.com/open-sauced/intro), a helpful tool that guides developers on contributing to open-source projects.
+- **[Intro](https://samucodesh.github.io/intro/#/):**  Provided Spanish (es) translations for [Open Sauced's Intro](https://github.com/open-sauced/intro), a helpful tool that guides developers on contributing to open-source projects.
 
 ## 🔗 Let's Connect
 
