@@ -12,7 +12,7 @@ A Freelance Software Developer from Colombia 🇨🇴 passionate about building 
 ## 💻  Featured Projects
 
 - **[My website](https://samucodesh.github.io/)**:  My personal website.
-- **[Intro](https://samucodesh.github.io/intro/#/):**  Provided Spanish (es) translations for [Open Sauced's Intro](https://github.com/open-sauced/intro), a helpful tool that guides developers on contributing to open-source projects.
+- **[Intro](https://samucodesh.github.io/intro/#/):**  As part of the OpenSauced community, I collaborated by translating their [introductory course on Open Source Software (OSS)](https://github.com/open-sauced/intro) into Spanish, making valuable OSS knowledge accessible to a wider audience. 
 
 ## 🔗 Let's Connect
 
