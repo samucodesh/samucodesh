@@ -5,7 +5,7 @@ A Freelance Software Developer from Colombia 🇨🇴 passionate about building 
 ## 🚀 My Expertise
 
 - **Go (Golang):** My go-to language for building scalable and efficient back-end systems.
-- **Python:** Comfortable with scripting and automation.
+- **Python:** Proficient in leveraging Python's powerful libraries, Pandas and NumPy, to extract meaningful insights from data. I utilize Pandas for data manipulation and analysis, efficiently cleaning, transforming, and reshaping datasets. With NumPy, I perform numerical computations and statistical analysis, enabling me to identify trends and patterns. My skills in these libraries empower me to conduct comprehensive data science projects.
 - **Web Performance Optimization:** I strive to deliver blazing-fast user experiences. 
 - **Trunk Based Development:** I believe in streamlined workflows that foster collaboration and rapid delivery. Trunk-based development helps achieve this by reducing merge conflicts, speeding up integration, and enabling continuous feedback.
 
