@@ -1,14 +1,19 @@
-👋 Hello, I'm Samuel!
+## 👋 Hello, I'm Samuel!
 
-A Freelance Software Developer from Colombia 🇨🇴 passionate about building high-performance web applications with Google technologies.
+*   🇨🇴 Colombian Freelance Software Developer
+*   🛠️ Building software following [Google's engineering practices](https://github.com/google/eng-practices).
+*   I build applications on Google Cloud using Go and integrate AI-powered features using Gemini.
 
-## 💻  Featured Projects
+## 📈 GitHub Stats
 
-- **[My website](https://samucodesh.github.io/)**:  My personal website.
-- **[Intro](https://samucodesh.github.io/intro/#/):**  As part of the OpenSauced community, I collaborated by translating their [introductory course on Open Source Software (OSS)](https://github.com/open-sauced/intro) into Spanish, making valuable OSS knowledge accessible to a wider audience. 
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samucodesh&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samucodesh&layout=compact&theme=radical)
 
 ## 🔗 Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat-square&logo=google-chrome)](https://samucodesh.github.io/) 
 
-**Looking for a skilled and passionate developer?  Let's collaborate!** 
+
