@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Samuel!
 
 *   🇨🇴 Colombian Freelance Software Developer
-*   🛠️ Building software following [Google's engineering practices](https://github.com/google/eng-practices).
-*   I build applications on Google Cloud using Go and integrate AI-powered features using Gemini.
+*   🛠️ Applying [Effective software principles](https://github.com/google/eng-practices) to every stage of SDLC. 
+*   Building applications and integrating AI-powered features with Gemini for the end-to-end SDLC.
 
 ## 📈 GitHub Stats
 
