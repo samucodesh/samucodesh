@@ -16,4 +16,4 @@
 
 For collaboration opportunities or to get in touch, please visit my website.
 
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat-square&logo=google-chrome)](https://samucodesh.github.io/) 
+[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat-square&logo=google-chrome)](https://samucodesh.github.io/website) 
