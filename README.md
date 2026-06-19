@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Samuel!
 
 *   🇨🇴 Colombian Freelance Software Developer
-*   🛠️ Applying [software engineering principles](https://github.com/google/eng-practices) to build robust applications and integrate Gemini AI into the SDLC.
-*   ❤️ Gemini CLI
+* ⚙️ Specializing in backend development with Go, system design, and database optimization.
+* 🤖 Exploring new frontiers in Generative AI integrations and terminal-based tools.
 
 ## 📈 GitHub Stats
 
